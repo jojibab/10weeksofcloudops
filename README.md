@@ -8,7 +8,8 @@
 - Showcase your skills through GitHub, blogs, and social media.🚀
 
 ## 🔗 Join our community 👇
-
+for video 
+https://youtu.be/GCH33XeL_9I
 
 <a href="https://youtube.com/@techtutorialswithpiyush"><img src="https://www.freeiconspng.com/thumbs/youtube-icon/video-youtube-icon--14.png" height="60px"></img></a>
 <a href="https://discord.com/invite/FMtJ2bVRUE"><img src="https://img.icons8.com/color/2x/discord--v2.png" height="60px"></img></a>
